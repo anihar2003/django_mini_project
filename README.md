@@ -1,3 +1,3 @@
-# django_mini_project
+# django_mini_project college
 
-email send of django
+email send of django python
